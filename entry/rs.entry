@@ -1,0 +1,7 @@
+modEntry = {
+	Client = "lua/rs/rs_client.lua",
+	Server = "lua/rs/rs_server.lua",
+	Predict = "lua/rs/rs_predict.lua",
+	FileHooks = "lua/rs/rs_filehooks.lua",
+	Priority = 1
+}
